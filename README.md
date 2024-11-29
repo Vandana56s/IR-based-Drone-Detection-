@@ -1,6 +1,8 @@
 # IR-based-Drone-Detection-
 #Overview
 This project focuses on developing an AI-powered system for real-time detection and classification of unmanned aerial vehicles (UAVs) in restricted airspaces using infrared (IR) imaging and deep learning. The system enhances public safety by identifying drones amidst challenging environmental conditions, such as low light or bad weather, and providing real-time alerts to security personnel.
+
+
 #Features
 Real-Time Detection: Detects drones, birds, and other aerial objects using YOLOv8.
 High Accuracy: Achieves 99.5% accuracy in classification and detection.
