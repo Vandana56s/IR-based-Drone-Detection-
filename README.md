@@ -40,8 +40,7 @@ Integrate cloud computing for scalability and centralized processing.
 Implement AI-based trajectory prediction and multi-object tracking.
 Expand to large-scale scenarios with modular scalability.
 
-#Workflow of the project
-
-
+#Alternate of the Google colab file
+https://colab.research.google.com/drive/1SdKcpaXzecdUXLKkNDSpQbvuH9Uzqgm4?usp=sharing
 
 
